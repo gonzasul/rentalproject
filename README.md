@@ -14,7 +14,6 @@ gonzalo rental project
   - [Pseudocode](#pseudocode)
   - [Data Exploration](#data-exploration)
 - [Visualization](#visualization)
-  - [Results](#results)
   - [DAX Measures](#dax-measures)
 - [Analysis](#analysis)
 - [Output](#output)
@@ -131,7 +130,6 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 # VISUALIZATION
 
 
-## RESULTS
 
 
 
